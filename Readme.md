@@ -18,7 +18,7 @@ This is a simple Tetris game implemented in Python using the Pygame library. The
 **Clone the repository:**
 
    ```bash
-   git clone https://github.com/oscarhoffmann3487/tetris-game.git
+   git clone https://github.com/oscarhoffmann3487/Py_Tetris.git
     pip install pygame
 ```
 
